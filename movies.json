@@ -1,0 +1,68 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "The Last Adventure",
+            "genre": "Action/Adventure",
+            "duration": "2h 15m",
+            "rating": "PG-13",
+            "description": "An epic journey through uncharted territories."
+        },
+        {
+            "id": 2,
+            "title": "Cosmic Dreams",
+            "genre": "Sci-Fi",
+            "duration": "2h 30m",
+            "rating": "PG",
+            "description": "A mind-bending journey through space and time."
+        },
+        {
+            "id": 3,
+            "title": "Heartstrings",
+            "genre": "Romance/Drama",
+            "duration": "1h 50m",
+            "rating": "PG-13",
+            "description": "A love story that transcends time."
+        },
+        {
+            "id": 4,
+            "title": "Mystery at Midnight",
+            "genre": "Thriller/Mystery",
+            "duration": "2h 5m",
+            "rating": "R",
+            "description": "A detective races against time to solve a century-old mystery."
+        },
+        {
+            "id": 5,
+            "title": "Laugh Out Loud",
+            "genre": "Comedy",
+            "duration": "1h 45m",
+            "rating": "PG",
+            "description": "The funniest movie of the year!"
+        }
+    ],
+    "theaters": [
+        {
+            "id": 1,
+            "name": "City Center Cinemas",
+            "location": "Downtown"
+        },
+        {
+            "id": 2,
+            "name": "Starlight Theater",
+            "location": "Westside Mall"
+        },
+        {
+            "id": 3,
+            "name": "Grand Arena",
+            "location": "Eastgate Complex"
+        }
+    ],
+    "showtimes": [
+        "10:00 AM",
+        "1:30 PM",
+        "4:00 PM",
+        "6:30 PM",
+        "9:00 PM"
+    ]
+}

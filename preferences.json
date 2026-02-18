@@ -1,0 +1,11 @@
+{
+    "preferences": {
+        "guest": {
+            "genre": "Mystery",
+            "time_preference": "evening",
+            "theater_preference": null,
+            "seat_type": "Standard",
+            "favorite_movies": []
+        }
+    }
+}
